@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1675350559 source:d:\embede systems course\bank data base project\bank data base\function.c
+
+1675375833 source:d:\embede systems course\bank data base project\bank data base\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
+1675349821 d:\embede systems course\bank data base project\bank data base\function.h
+
+1675350136 d:\embede systems course\bank data base project\bank data base\function.c
+
+1675350679 d:\embede systems course\bank data base project\bank data base\bank data base functions.h
+
+1675351511 d:\embede systems course\bank data base project\bank data base\bankdatabasefunction.h
+
+1675352406 d:\embede systems course\bank data base project\bank data base\bank.h
+
